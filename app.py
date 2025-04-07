@@ -107,7 +107,7 @@ def sentence_sort_key(filepath):
     match = re.match(r"^(.*?)-attempt-(\d+)-sentence-(\d+)\.json$", filename)
     return int(match.group(3)) if match else 0
 
-display_grouped_samples("sentences (one by one)", "TTS Per Sentence", r"^(.*?)-attempt-(\d+)-sentence-(\d+)\.json$", sort_key_func=sentence_sort_key)
+display_grouped_samples("samples-sentence", "TTS Per Sentence", r"^(.*?)-attempt-(\d+)-sentence-(\d+)\.json$", sort_key_func=sentence_sort_key)
 
 
 # Finally, display the general merged WAV file if it exists.
@@ -117,7 +117,7 @@ if os.path.exists(merged_wav):
     with open(merged_wav, "rb") as f:
         st.audio(f.read(), format="audio/wav")
 else:
-    st.info("Merged WAV file 'output.wav' not found in the 'sentences (one by one)' folder.")
+    st.info("Merged WAV file 'output.wav' not found in the 'samples-sentence' folder.")
 
 # -------------------------
 # Conclusion
