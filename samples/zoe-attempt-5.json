@@ -1,0 +1,9 @@
+{
+    "input_text": "Books are more than pages and words. They are time machines, windows, and escape hatches. With every chapter, we live another life. Stories shape how we think and feel. A good book stays with you long after the last page.",
+    "total_chunks": 183,
+    "first_chunk_latency_sec": 0.4250169830002051,
+    "last_chunk_latency_sec": 18.123831122999945,
+    "average_chunk_interval_sec": 0.09724623153846011,
+    "total_generation_time_sec": 18.89166631399985,
+    "audio_duration_sec": 15.616
+}

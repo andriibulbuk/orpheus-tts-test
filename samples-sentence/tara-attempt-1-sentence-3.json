@@ -1,0 +1,9 @@
+{
+    "input_text": "The day is bright and cheerful.",
+    "total_chunks": 30,
+    "first_chunk_latency_sec": 0.4218594900012249,
+    "last_chunk_latency_sec": 3.133092836000287,
+    "average_chunk_interval_sec": 0.09349080503445042,
+    "total_generation_time_sec": 3.496550275000118,
+    "audio_duration_sec": 2.56
+}

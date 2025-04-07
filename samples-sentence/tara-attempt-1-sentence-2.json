@@ -1,0 +1,9 @@
+{
+    "input_text": "A swift breeze fills the air.",
+    "total_chunks": 29,
+    "first_chunk_latency_sec": 0.4131084919990826,
+    "last_chunk_latency_sec": 3.1126534119994176,
+    "average_chunk_interval_sec": 0.09641231857144053,
+    "total_generation_time_sec": 3.634470340999542,
+    "audio_duration_sec": 2.474666666666667
+}

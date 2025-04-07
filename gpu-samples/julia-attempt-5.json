@@ -1,0 +1,16 @@
+{
+    "input_text": "Hello, I\u2019m your conversational assistant, excited to support your needs. I can provide information, assist with tasks, and even chat about the latest news. Your input helps me serve you better, so don\u2019t be shy about asking questions. I\u2019m here to make your day more efficient and enjoyable. Let\u2019s dive into our conversation and explore new ideas together!",
+    "total_chunks": 198,
+    "first_chunk_latency_sec": 0.4314967529990099,
+    "last_chunk_latency_sec": 19.358305873998688,
+    "average_chunk_interval_sec": 0.09607517320304405,
+    "total_generation_time_sec": 20.146509343998332,
+    "audio_duration_sec": 16.896,
+    "gpu_utilization": {
+        "gpu_utilization_percent": 82,
+        "memory_utilization_percent": 83,
+        "memory_total_mb": 49140,
+        "memory_used_mb": 42902,
+        "memory_free_mb": 5650
+    }
+}

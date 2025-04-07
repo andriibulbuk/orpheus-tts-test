@@ -1,0 +1,16 @@
+{
+    "input_text": "Hello, I\u2019m your friendly digital assistant here to help you. I can answer questions, provide insights, and guide you through your tasks. Feel free to ask about anything that comes to mind. I\u2019m always ready to chat and learn from you. Let\u2019s start a great conversation!",
+    "total_chunks": 190,
+    "first_chunk_latency_sec": 0.4277659479994327,
+    "last_chunk_latency_sec": 18.531234564999977,
+    "average_chunk_interval_sec": 0.09578554823809812,
+    "total_generation_time_sec": 19.109841065999717,
+    "audio_duration_sec": 16.213333333333335,
+    "gpu_utilization": {
+        "gpu_utilization_percent": 86,
+        "memory_utilization_percent": 87,
+        "memory_total_mb": 49140,
+        "memory_used_mb": 42902,
+        "memory_free_mb": 5650
+    }
+}

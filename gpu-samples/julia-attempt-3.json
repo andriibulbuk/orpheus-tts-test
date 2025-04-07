@@ -1,0 +1,16 @@
+{
+    "input_text": "Good day, I\u2019m an intelligent assistant at your service. I\u2019m capable of providing information, reminders, and even a touch of humor when needed. Your satisfaction is my top priority, and I\u2019m eager to assist with any query. I\u2019m programmed to understand your needs and respond in a friendly manner. Let\u2019s work together to make today productive and enjoyable.",
+    "total_chunks": 188,
+    "first_chunk_latency_sec": 0.43284238999876834,
+    "last_chunk_latency_sec": 19.027494293999553,
+    "average_chunk_interval_sec": 0.09943664119786516,
+    "total_generation_time_sec": 19.540902316999563,
+    "audio_duration_sec": 16.042666666666666,
+    "gpu_utilization": {
+        "gpu_utilization_percent": 82,
+        "memory_utilization_percent": 83,
+        "memory_total_mb": 49140,
+        "memory_used_mb": 42902,
+        "memory_free_mb": 5650
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "input_text": "Rain tapped gently on the windows as the city slowed down. Cars moved carefully, their lights shimmering on the wet streets. Inside the caf\u00e9, the smell of coffee warmed the air. Strangers shared glances and quiet smiles. Sometimes, rainy days bring unexpected comfort.",
+    "total_chunks": 228,
+    "first_chunk_latency_sec": 0.4208178859998952,
+    "last_chunk_latency_sec": 22.632544920000328,
+    "average_chunk_interval_sec": 0.09784901777092701,
+    "total_generation_time_sec": 23.136594713000704,
+    "audio_duration_sec": 19.456
+}

@@ -1,0 +1,9 @@
+{
+    "input_text": "The sun rose gently over the hills, painting the sky in shades of orange and pink. Birds chirped cheerfully as the morning breeze danced through the trees. A new day had begun, full of endless possibilities. People stirred in their homes, sipping coffee and planning their routines. Nature and humanity moved together in quiet harmony.",
+    "total_chunks": 288,
+    "first_chunk_latency_sec": 0.4664911330000905,
+    "last_chunk_latency_sec": 27.985778205000315,
+    "average_chunk_interval_sec": 0.09588601767247465,
+    "total_generation_time_sec": 28.33400811299998,
+    "audio_duration_sec": 24.576
+}

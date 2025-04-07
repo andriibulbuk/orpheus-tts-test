@@ -1,0 +1,9 @@
+{
+    "input_text": "She walked into the room with confidence, head held high. Everyone turned to look, sensing her quiet power. Her voice was calm, but it carried strength. Even in silence, she commanded attention. That\u2019s what true presence looks like.",
+    "total_chunks": 192,
+    "first_chunk_latency_sec": 0.43305490700004157,
+    "last_chunk_latency_sec": 18.460088994000216,
+    "average_chunk_interval_sec": 0.09438237741884908,
+    "total_generation_time_sec": 18.82975948100011,
+    "audio_duration_sec": 16.384
+}

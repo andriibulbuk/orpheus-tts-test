@@ -1,0 +1,9 @@
+{
+    "input_text": "Technology evolves faster than ever before. Every year brings new devices, smarter systems, and better connections. It\u2019s easy to feel overwhelmed, but also incredibly inspired. With each innovation, our potential expands. The future is being built today, line by line.",
+    "total_chunks": 256,
+    "first_chunk_latency_sec": 0.4733218500005023,
+    "last_chunk_latency_sec": 25.172373721999975,
+    "average_chunk_interval_sec": 0.09685902694901755,
+    "total_generation_time_sec": 25.556185862000348,
+    "audio_duration_sec": 21.845333333333333
+}
